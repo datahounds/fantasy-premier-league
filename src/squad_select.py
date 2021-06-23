@@ -8,15 +8,13 @@ from datasets import FplApiData
 
 class SelectionModel:
 
-    def __init__(self, team_id, gw, forecasts_file):
+    def __init__(self, forecasts_file, team_id=None, gw=None):
 
         '''Downloads data from fpl api 
            and combines with input from fplreview.com'''
 
         # API data
         api_data = FplApiData(team_id=team_id, gw=gw-1)
-        # players
-        self.players = api_data.players
         # position IDs, names and squad limits
         self.positions = api_data.positions
         # team IDs and names
@@ -28,7 +26,8 @@ class SelectionModel:
         # upcoming gameweek
         self.gw = gw
         # Review data
-        self.forecasts = api_data.make_opt_df(forecasts_file)
+        self.forecasts = pd.read_csv(forecasts_file).set_index(['player_id'],
+                                                               drop=True)
         
 
     def solve_optimal_squad(self, budget=100):
@@ -41,7 +40,7 @@ class SelectionModel:
         model = so.Model(model_name)
 
         # Variables
-        squad   = model.add_variables(players,name='squad',
+        squad   = model.add_variables(players, name='squad',
                                       vartype=so.binary)
         lineup  = model.add_variables(players, name='lineup', 
                                       vartype=so.binary)
@@ -100,7 +99,7 @@ class SelectionModel:
             name='valid_squad')
         # total value of squad cannot exceed budget
         price = so.expr_sum(
-            self.forecasts.loc[p, 'bv'] * squad[p] for p in players)
+            self.forecasts.loc[p, 'now_cost'] * squad[p] for p in players)
         model.add_constraint(price <= budget, name='budget_limit')
         # no more than 3 players per team
         model.add_constraints(
@@ -142,7 +141,7 @@ class SelectionModel:
                 position = self.positions.loc[lp['position_id'], 'position_name']
                 team = self.teams.loc[lp['team_id'], 'team_name']
                 picks.append([lp['web_name'], lp['position_id'], position, team,
-                              lp['bv'], round(lp[f'{self.gw}_pts'], 2),
+                              lp['now_cost'], round(lp[f'{self.gw}_pts'], 2),
                               is_lineup, is_captain, is_vice])
 
         picks_df = pd.DataFrame(

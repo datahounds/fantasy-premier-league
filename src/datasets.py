@@ -7,6 +7,9 @@ from tqdm.auto import tqdm
 BASE_URL = 'https://fantasy.premierleague.com/api/'
 
 
+# ToDo: add helper function to convert FPLReview forecasts file into correct format
+
+
 def get_player_history(player_id, type):
     '''Get all past season info for a given player_id,
        wait between requests to avoid API rate limit'''
@@ -86,43 +89,9 @@ class FplApiData:
                                       inplace=True)
             # cash in the bank
             self.bank = manager_data['entry_history']['bank'] / 10
-
-    
-    def make_opt_df(self, forecasts_file):
-        '''Create dataframe with player info and upcoming projections'''
-
-        forecasts = pd.read_csv(forecasts_file)
-        # rename columns to match api data
-        forecasts.rename(columns={'Pos': 'position_name',
-                                  'Name': 'web_name',
-                                  'Team': 'team_name'},
-                         inplace=True)
-        forecasts.columns = forecasts.columns.str.lower()
-        # replace position names with api names
-        forecasts['position_name'].replace(
-            {'G':'GKP', 'D':'DEF', 'M':'MID', 'F':'FWD'}, inplace=True)
-
-        # player info
-        df = self.players[
-            ['web_name', 'position_id', 'team_id', 'now_cost']
-        # join team names
-        ].reset_index().merge(
-            self.teams[
-                ['team_id', 'team_name']],
-            on='team_id'
-        # join position names
-        ).merge(
-            self.positions[
-                ['position_id', 'position_name']],
-            on='position_id'
-        # join forecasts
-        ).merge(
-            forecasts, on=['team_name', 'web_name', 'position_name']
-        )
-
-        df.set_index(['player_id'], inplace=True)
-
-        return df
+        else:
+            self.current_squad=None,
+            self.bank=None
 
 
     def make_history_df(self, type):
