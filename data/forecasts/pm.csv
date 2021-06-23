@@ -1,0 +1,447 @@
+player_id,web_name,position_id,position_name,team_id,team_name,now_cost,1_pts
+1,Leno,1,GKP,1,Arsenal,5.0,3.76
+2,Rúnarsson,1,GKP,1,Arsenal,4.0,2.0
+3,Willian,3,MID,1,Arsenal,6.5,4.07
+7,Xhaka,3,MID,1,Arsenal,5.0,2.38
+12,Elneny,3,MID,1,Arsenal,4.5,2.55
+13,Maitland-Niles,3,MID,1,Arsenal,5.5,2.54
+15,Partey,3,MID,1,Arsenal,5.0,2.37
+17,Pépé,3,MID,1,Arsenal,7.5,5.16
+18,Torreira,3,MID,1,Arsenal,4.5,2.0
+19,Willock,3,MID,1,Arsenal,6.0,4.82
+21,Smith Rowe,3,MID,1,Arsenal,5.5,4.16
+22,Saka,3,MID,1,Arsenal,6.5,3.79
+25,Guendouzi,3,MID,1,Arsenal,4.5,2.0
+26,Martinelli,3,MID,1,Arsenal,5.5,4.07
+4,Aubameyang,4,FWD,1,Arsenal,10.0,4.06
+6,Lacazette,4,FWD,1,Arsenal,8.5,5.11
+20,Nketiah,4,FWD,1,Arsenal,5.5,2.0
+5,Cédric,2,DEF,1,Arsenal,4.5,3.1
+8,Marí,2,DEF,1,Arsenal,4.5,3.4
+9,Bellerín,2,DEF,1,Arsenal,5.0,3.9
+10,Chambers,2,DEF,1,Arsenal,4.5,3.96
+11,Kolasinac,2,DEF,1,Arsenal,4.5,2.0
+14,Holding,2,DEF,1,Arsenal,4.5,3.6
+16,Tierney,2,DEF,1,Arsenal,5.0,3.66
+23,Gabriel,2,DEF,1,Arsenal,5.0,3.46
+24,Mavropanos,2,DEF,1,Arsenal,4.5,2.0
+27,Saliba,2,DEF,1,Arsenal,4.5,2.0
+28,Steer,1,GKP,2,Aston Villa,4.0,2.0
+30,Martínez,1,GKP,2,Aston Villa,5.5,4.89
+29,Hourihane,3,MID,2,Aston Villa,5.0,2.0
+32,Traoré,3,MID,2,Aston Villa,6.0,4.5
+33,Grealish,3,MID,2,Aston Villa,8.0,5.38
+34,Sanson,3,MID,2,Aston Villa,5.0,2.0
+35,McGinn,3,MID,2,Aston Villa,6.0,3.08
+37,Trézéguet,3,MID,2,Aston Villa,5.5,3.52
+41,Nakamba,3,MID,2,Aston Villa,4.5,2.66
+42,El Ghazi,3,MID,2,Aston Villa,6.0,5.1
+43,Buendía,3,MID,2,Aston Villa,6.5,2.0
+50,Douglas Luiz,3,MID,2,Aston Villa,4.5,2.26
+51,Ramsey,3,MID,2,Aston Villa,4.5,2.7
+40,Watkins,4,FWD,2,Aston Villa,7.5,4.54
+47,Wesley,4,FWD,2,Aston Villa,5.5,2.0
+48,Samatta,4,FWD,2,Aston Villa,5.5,2.0
+49,Davis,4,FWD,2,Aston Villa,4.5,2.0
+31,Engels,2,DEF,2,Aston Villa,4.5,2.0
+36,Hause,2,DEF,2,Aston Villa,4.5,4.57
+38,Mings,2,DEF,2,Aston Villa,5.0,3.58
+39,Targett,2,DEF,2,Aston Villa,5.0,3.64
+44,Cash,2,DEF,2,Aston Villa,5.0,3.28
+45,Konsa,2,DEF,2,Aston Villa,5.0,3.33
+46,Guilbert,2,DEF,2,Aston Villa,4.5,2.0
+52,Young,2,DEF,2,Aston Villa,5.0,2.0
+80,Raya,1,GKP,3,Brentford,4.5,2.0
+92,Balcombe,1,GKP,3,Brentford,4.0,2.0
+94,Gunnarsson,1,GKP,3,Brentford,4.0,2.0
+77,Nørgaard,3,MID,3,Brentford,5.0,2.0
+79,Fosu,3,MID,3,Brentford,5.5,2.0
+81,Canós,3,MID,3,Brentford,5.5,2.0
+82,Dasilva,3,MID,3,Brentford,5.5,2.0
+84,Janelt,3,MID,3,Brentford,5.0,2.0
+85,Ghoddos,3,MID,3,Brentford,5.5,2.0
+86,Jensen,3,MID,3,Brentford,5.0,2.0
+93,Zamburek,3,MID,3,Brentford,4.5,2.0
+96,Mbeumo,3,MID,3,Brentford,5.5,2.0
+97,Bidstrup,3,MID,3,Brentford,4.5,2.0
+78,Toney,4,FWD,3,Brentford,6.5,2.0
+88,Forss,4,FWD,3,Brentford,5.5,2.0
+95,Dervişoğlu,4,FWD,3,Brentford,5.5,2.0
+76,Jansson,2,DEF,3,Brentford,4.5,2.0
+83,Henry,2,DEF,3,Brentford,4.5,2.0
+87,Goode,2,DEF,3,Brentford,4.0,2.0
+89,Roerslev,2,DEF,3,Brentford,4.5,2.0
+90,Sørensen,2,DEF,3,Brentford,4.5,2.0
+91,Pinnock,2,DEF,3,Brentford,4.5,2.0
+54,Steele,1,GKP,4,Brighton,4.0,2.0
+65,Ryan,1,GKP,4,Brighton,4.5,2.64
+69,Sánchez,1,GKP,4,Brighton,4.5,3.74
+53,Lallana,3,MID,4,Brighton,5.5,2.62
+55,Groß,3,MID,4,Brighton,6.0,3.81
+57,Pröpper,3,MID,4,Brighton,4.5,2.0
+60,March,3,MID,4,Brighton,5.5,3.5
+64,Trossard,3,MID,4,Brighton,6.5,4.17
+66,Jahanbakhsh,3,MID,4,Brighton,5.5,2.64
+70,Bissouma,3,MID,4,Brighton,4.5,2.18
+73,Alzate,3,MID,4,Brighton,5.0,2.93
+74,Mac Allister,3,MID,4,Brighton,5.5,3.1
+75,Moder,3,MID,4,Brighton,4.5,2.34
+63,Maupay,4,FWD,4,Brighton,6.5,3.48
+72,Connolly,4,FWD,4,Brighton,5.5,3.3
+56,Duffy,2,DEF,4,Brighton,4.0,2.0
+58,Burn,2,DEF,4,Brighton,4.5,2.58
+59,Dunk,2,DEF,4,Brighton,5.0,3.96
+61,Webster,2,DEF,4,Brighton,4.5,2.94
+62,Veltman,2,DEF,4,Brighton,4.5,3.61
+67,White,2,DEF,4,Brighton,4.5,2.91
+68,Bernardo,2,DEF,4,Brighton,4.0,2.0
+71,Lamptey,2,DEF,4,Brighton,4.5,3.36
+112,Pope,1,GKP,5,Burnley,5.5,4.5
+114,Norris,1,GKP,5,Burnley,4.5,2.0
+117,Peacock-Farrell,1,GKP,5,Burnley,4.5,2.0
+101,Cork,3,MID,5,Burnley,4.5,2.13
+102,Stephens,3,MID,5,Burnley,4.5,2.0
+107,Westwood,3,MID,5,Burnley,5.5,2.96
+108,Gudmundsson,3,MID,5,Burnley,5.5,2.79
+115,Brownhill,3,MID,5,Burnley,4.5,2.31
+116,Benson,3,MID,5,Burnley,4.5,2.0
+118,McNeil,3,MID,5,Burnley,6.0,3.22
+104,Rodriguez,4,FWD,5,Burnley,5.5,2.82
+105,Barnes,4,FWD,5,Burnley,5.5,2.94
+109,Wood,4,FWD,5,Burnley,7.0,4.36
+111,Vydra,4,FWD,5,Burnley,5.5,3.16
+98,Tarkowski,2,DEF,5,Burnley,5.0,3.03
+99,Bardsley,2,DEF,5,Burnley,4.0,2.0
+100,Pieters,2,DEF,5,Burnley,4.5,3.04
+103,Long,2,DEF,5,Burnley,4.0,1.86
+106,Mee,2,DEF,5,Burnley,5.0,3.4
+110,Lowton,2,DEF,5,Burnley,4.5,3.03
+113,Taylor,2,DEF,5,Burnley,4.5,2.97
+129,Arrizabalaga,1,GKP,6,Chelsea,5.0,3.86
+143,Mendy,1,GKP,6,Chelsea,6.0,4.56
+123,Jorginho,3,MID,6,Chelsea,6.0,4.59
+124,Barkley,3,MID,6,Chelsea,5.5,3.64
+125,Kovacic,3,MID,6,Chelsea,5.0,2.34
+130,Kanté,3,MID,6,Chelsea,5.0,2.34
+131,Ziyech,3,MID,6,Chelsea,7.5,4.22
+132,Loftus-Cheek,3,MID,6,Chelsea,5.5,2.58
+137,Pulisic,3,MID,6,Chelsea,8.0,3.65
+138,Mount,3,MID,6,Chelsea,7.5,4.33
+140,Hudson-Odoi,3,MID,6,Chelsea,5.5,3.81
+141,Havertz,3,MID,6,Chelsea,8.5,4.39
+144,Gallagher,3,MID,6,Chelsea,5.5,2.45
+145,Gilmour,3,MID,6,Chelsea,4.5,2.0
+120,Giroud,4,FWD,6,Chelsea,6.5,4.24
+126,Batshuayi,4,FWD,6,Chelsea,5.5,3.72
+134,Werner,4,FWD,6,Chelsea,9.0,4.04
+136,Abraham,4,FWD,6,Chelsea,6.5,4.58
+119,Azpilicueta,2,DEF,6,Chelsea,6.0,4.5
+121,Thiago Silva,2,DEF,6,Chelsea,5.5,4.14
+122,Alonso,2,DEF,6,Chelsea,5.5,4.86
+127,Rüdiger,2,DEF,6,Chelsea,5.5,4.89
+128,Zouma,2,DEF,6,Chelsea,5.5,4.65
+133,Christensen,2,DEF,6,Chelsea,5.0,3.8
+135,Chilwell,2,DEF,6,Chelsea,6.0,5.31
+139,Ampadu,2,DEF,6,Chelsea,4.5,1.83
+142,James,2,DEF,6,Chelsea,5.5,3.88
+146,Guaita,1,GKP,7,Crystal Palace,4.5,3.35
+156,Butland,1,GKP,7,Crystal Palace,4.5,2.0
+148,McArthur,3,MID,7,Crystal Palace,4.5,2.63
+152,Milivojevic,3,MID,7,Crystal Palace,5.5,2.22
+154,Zaha,3,MID,7,Crystal Palace,7.0,4.61
+155,Schlupp,3,MID,7,Crystal Palace,5.5,3.27
+157,Riedewald,3,MID,7,Crystal Palace,5.0,2.56
+160,Eze,3,MID,7,Crystal Palace,6.0,4.04
+149,Benteke,4,FWD,7,Crystal Palace,6.5,4.4
+153,Ayew,4,FWD,7,Crystal Palace,6.0,2.57
+159,Mateta,4,FWD,7,Crystal Palace,5.5,2.0
+147,Tomkins,2,DEF,7,Crystal Palace,4.5,2.6
+150,Kouyaté,2,DEF,7,Crystal Palace,4.5,2.46
+151,Kelly,2,DEF,7,Crystal Palace,4.0,2.0
+158,Jach,2,DEF,7,Crystal Palace,4.5,2.0
+161,Ferguson,2,DEF,7,Crystal Palace,4.5,2.0
+162,Mitchell,2,DEF,7,Crystal Palace,4.5,3.05
+170,Pickford,1,GKP,8,Everton,5.0,3.71
+181,Virgínia,1,GKP,8,Everton,4.0,2.0
+163,Delph,3,MID,8,Everton,4.5,2.0
+164,Sigurdsson,3,MID,8,Everton,7.0,4.14
+166,James,3,MID,8,Everton,7.0,4.78
+167,Bernard,3,MID,8,Everton,5.5,2.0
+171,Allan,3,MID,8,Everton,4.5,2.01
+172,André Gomes,3,MID,8,Everton,5.0,2.24
+173,Doucouré,3,MID,8,Everton,5.5,2.86
+174,Iwobi,3,MID,8,Everton,6.0,3.0
+176,Davies,3,MID,8,Everton,5.0,2.44
+177,Calvert-Lewin,4,FWD,8,Everton,8.0,5.08
+180,Richarlison,4,FWD,8,Everton,7.5,3.74
+165,Coleman,2,DEF,8,Everton,5.0,3.89
+168,Digne,2,DEF,8,Everton,5.5,4.02
+169,Keane,2,DEF,8,Everton,5.0,3.72
+175,Mina,2,DEF,8,Everton,5.0,3.48
+178,Holgate,2,DEF,8,Everton,4.5,3.0
+179,Godfrey,2,DEF,8,Everton,5.0,3.29
+200,Schmeichel,1,GKP,9,Leicester,5.0,3.37
+204,Ward,1,GKP,9,Leicester,4.0,2.0
+202,Albrighton,3,MID,9,Leicester,5.5,3.28
+203,Mendy,3,MID,9,Leicester,4.5,2.16
+206,Praet,3,MID,9,Leicester,5.0,3.57
+210,Tielemans,3,MID,9,Leicester,6.5,3.54
+211,Pérez,3,MID,9,Leicester,6.0,3.14
+212,Maddison,3,MID,9,Leicester,7.0,5.0
+214,Choudhury,3,MID,9,Leicester,4.5,2.0
+215,Barnes,3,MID,9,Leicester,7.0,5.44
+216,Ndidi,3,MID,9,Leicester,5.0,3.16
+205,Vardy,4,FWD,9,Leicester,10.5,5.72
+213,Iheanacho,4,FWD,9,Leicester,7.5,5.61
+201,Evans,2,DEF,9,Leicester,5.5,3.93
+207,Pereira,2,DEF,9,Leicester,5.5,2.17
+208,Amartey,2,DEF,9,Leicester,4.0,2.09
+209,Castagne,2,DEF,9,Leicester,5.5,3.54
+217,Söyüncü,2,DEF,9,Leicester,5.0,2.74
+218,Justin,2,DEF,9,Leicester,5.0,4.39
+219,Thomas,2,DEF,9,Leicester,4.5,2.14
+220,Fofana,2,DEF,9,Leicester,4.5,2.68
+183,Casilla,1,GKP,10,Leeds,4.5,2.0
+199,Meslier,1,GKP,10,Leeds,5.0,4.4
+182,Hernández,3,MID,10,Leeds,5.5,2.0
+186,Klich,3,MID,10,Leeds,5.5,3.28
+188,Dallas,3,MID,10,Leeds,5.5,3.82
+191,Phillips,3,MID,10,Leeds,5.0,2.4
+192,Costa,3,MID,10,Leeds,5.5,3.89
+193,Roberts,3,MID,10,Leeds,5.0,2.56
+195,Poveda,3,MID,10,Leeds,4.5,2.0
+196,Raphinha,3,MID,10,Leeds,6.5,4.76
+197,Shackleton,3,MID,10,Leeds,4.5,2.34
+187,Rodrigo,4,FWD,10,Leeds,6.5,4.84
+189,Bamford,4,FWD,10,Leeds,8.0,5.42
+184,Cooper,2,DEF,10,Leeds,4.5,2.4
+185,Ayling,2,DEF,10,Leeds,4.5,2.64
+190,Llorente,2,DEF,10,Leeds,4.5,3.54
+194,Koch,2,DEF,10,Leeds,4.5,2.64
+198,Struijk,2,DEF,10,Leeds,4.5,2.86
+223,Adrián,1,GKP,11,Liverpool,4.5,2.0
+231,Alisson,1,GKP,11,Liverpool,6.0,4.24
+242,Kelleher,1,GKP,11,Liverpool,4.5,2.0
+221,Milner,3,MID,11,Liverpool,5.0,2.72
+222,Henderson,3,MID,11,Liverpool,5.0,2.82
+225,Thiago,3,MID,11,Liverpool,5.5,2.48
+226,Shaqiri,3,MID,11,Liverpool,6.0,3.06
+227,Chamberlain,3,MID,11,Liverpool,6.0,2.0
+230,Mané,3,MID,11,Liverpool,12.0,5.34
+232,Fabinho,3,MID,11,Liverpool,5.5,2.43
+233,Salah,3,MID,11,Liverpool,12.5,6.5
+236,Minamino,3,MID,11,Liverpool,5.5,3.42
+239,Keita,3,MID,11,Liverpool,5.0,2.05
+240,Jota,3,MID,11,Liverpool,7.5,5.76
+244,Jones,3,MID,11,Liverpool,5.0,2.96
+228,Firmino,4,FWD,11,Liverpool,9.0,4.2
+235,Origi,4,FWD,11,Liverpool,5.0,2.0
+224,Matip,2,DEF,11,Liverpool,5.0,4.84
+229,van Dijk,2,DEF,11,Liverpool,6.5,2.0
+234,Robertson,2,DEF,11,Liverpool,7.0,4.26
+237,Alexander-Arnold,2,DEF,11,Liverpool,7.5,4.6
+238,Gomez,2,DEF,11,Liverpool,5.0,1.48
+241,Phillips,2,DEF,11,Liverpool,4.5,4.11
+243,Konaté,2,DEF,11,Liverpool,5.5,2.0
+245,Tsimikas,2,DEF,11,Liverpool,4.0,2.0
+246,N.Williams,2,DEF,11,Liverpool,4.0,2.0
+247,R.Williams,2,DEF,11,Liverpool,4.5,3.46
+248,Davies,2,DEF,11,Liverpool,4.0,3.04
+257,Ederson,1,GKP,12,Man City,6.0,4.44
+260,Steffen,1,GKP,12,Man City,4.5,2.0
+250,Gündogan,3,MID,12,Man City,7.5,6.3
+251,De Bruyne,3,MID,12,Man City,12.0,6.0
+254,Mahrez,3,MID,12,Man City,9.0,6.04
+255,Sterling,3,MID,12,Man City,11.0,5.22
+261,Bernardo,3,MID,12,Man City,7.0,3.86
+265,Foden,3,MID,12,Man City,8.0,6.19
+266,Rodrigo,3,MID,12,Man City,5.5,2.83
+267,Harrison,3,MID,12,Man City,6.0,4.75
+268,Torres,3,MID,12,Man City,7.0,5.28
+263,Jesus,4,FWD,12,Man City,8.5,4.5
+249,Walker,2,DEF,12,Man City,5.5,4.0
+252,Stones,2,DEF,12,Man City,5.5,5.89
+253,Mendy,2,DEF,12,Man City,5.5,5.4
+256,Cancelo,2,DEF,12,Man City,6.0,5.16
+258,Aké,2,DEF,12,Man City,5.0,3.08
+259,Laporte,2,DEF,12,Man City,5.5,3.76
+262,Dias,2,DEF,12,Man City,6.0,4.47
+264,Zinchenko,2,DEF,12,Man City,5.5,3.84
+270,de Gea,1,GKP,13,Man Utd,5.0,3.54
+280,Henderson,1,GKP,13,Man Utd,5.0,3.45
+271,Matic,3,MID,13,Man Utd,4.5,2.37
+272,Pogba,3,MID,13,Man Utd,7.5,3.96
+274,Fred,3,MID,13,Man Utd,5.0,2.45
+276,Lingard,3,MID,13,Man Utd,7.0,6.66
+277,Fernandes,3,MID,13,Man Utd,12.0,6.84
+281,Rashford,3,MID,13,Man Utd,9.5,5.04
+282,van de Beek,3,MID,13,Man Utd,6.0,3.66
+285,McTominay,3,MID,13,Man Utd,5.5,3.35
+287,James,3,MID,13,Man Utd,6.0,3.57
+289,Greenwood,3,MID,13,Man Utd,7.5,4.34
+269,Cavani,4,FWD,13,Man Utd,8.5,5.17
+278,Martial,4,FWD,13,Man Utd,8.0,3.99
+273,Maguire,2,DEF,13,Man Utd,5.5,3.66
+275,Shaw,2,DEF,13,Man Utd,5.5,4.04
+279,Telles,2,DEF,13,Man Utd,5.0,3.02
+283,Tuanzebe,2,DEF,13,Man Utd,4.5,2.0
+284,Lindelöf,2,DEF,13,Man Utd,5.0,3.54
+286,Bailly,2,DEF,13,Man Utd,5.0,2.82
+288,Wan-Bissaka,2,DEF,13,Man Utd,5.5,4.24
+290,Williams,2,DEF,13,Man Utd,4.0,2.0
+294,Darlow,1,GKP,14,Newcastle,4.5,3.2
+295,Dubravka,1,GKP,14,Newcastle,4.5,3.69
+291,Shelvey,3,MID,14,Newcastle,5.5,2.51
+297,Hendrick,3,MID,14,Newcastle,5.0,2.83
+298,Fraser,3,MID,14,Newcastle,5.5,2.99
+304,Murphy,3,MID,14,Newcastle,5.0,3.24
+306,Hayden,3,MID,14,Newcastle,4.5,1.76
+308,Almirón,3,MID,14,Newcastle,5.5,3.22
+309,S.Longstaff,3,MID,14,Newcastle,4.5,2.24
+312,M.Longstaff,3,MID,14,Newcastle,4.5,2.0
+296,Wilson,4,FWD,14,Newcastle,7.5,5.48
+300,Gayle,4,FWD,14,Newcastle,5.5,3.64
+307,Saint-Maximin,4,FWD,14,Newcastle,6.5,3.67
+310,Joelinton,4,FWD,14,Newcastle,6.0,2.88
+292,Ritchie,2,DEF,14,Newcastle,5.0,3.24
+293,Clark,2,DEF,14,Newcastle,4.5,2.14
+299,Lascelles,2,DEF,14,Newcastle,4.5,2.38
+301,Dummett,2,DEF,14,Newcastle,4.5,2.77
+302,Manquillo,2,DEF,14,Newcastle,4.0,2.61
+303,Krafth,2,DEF,14,Newcastle,4.5,2.98
+305,Schär,2,DEF,14,Newcastle,4.5,1.91
+311,Lewis,2,DEF,14,Newcastle,4.5,2.0
+313,McGovern,1,GKP,15,Norwich,4.0,2.0
+314,Krul,1,GKP,15,Norwich,4.5,2.0
+316,Stiepermann,3,MID,15,Norwich,5.0,2.0
+317,Rupp,3,MID,15,Norwich,4.5,2.0
+318,McLean,3,MID,15,Norwich,5.0,2.0
+320,Hernández,3,MID,15,Norwich,5.0,2.0
+323,Dowell,3,MID,15,Norwich,5.5,2.0
+325,Cantwell,3,MID,15,Norwich,5.5,2.0
+328,Placheta,3,MID,15,Norwich,5.0,2.0
+330,Martin,3,MID,15,Norwich,5.0,2.0
+315,Pukki,4,FWD,15,Norwich,6.0,2.0
+322,Hugill,4,FWD,15,Norwich,5.5,2.0
+329,Idah,4,FWD,15,Norwich,5.0,2.0
+319,Hanley,2,DEF,15,Norwich,4.5,2.0
+321,Byram,2,DEF,15,Norwich,4.5,2.0
+324,Zimmermann,2,DEF,15,Norwich,4.5,2.0
+326,Aarons,2,DEF,15,Norwich,4.5,2.0
+327,Sørensen,2,DEF,15,Norwich,4.5,2.0
+331,Omobamidele,2,DEF,15,Norwich,4.0,2.0
+333,Forster,1,GKP,16,Southampton,4.5,3.75
+334,McCarthy,1,GKP,16,Southampton,4.5,3.13
+332,Walcott,3,MID,16,Southampton,6.0,3.82
+335,Romeu,3,MID,16,Southampton,4.5,2.57
+336,Redmond,3,MID,16,Southampton,6.0,2.9
+339,Armstrong,3,MID,16,Southampton,6.0,3.61
+341,Ward-Prowse,3,MID,16,Southampton,6.5,4.11
+346,Tella,3,MID,16,Southampton,5.0,3.2
+347,Smallbone,3,MID,16,Southampton,4.5,2.0
+349,Diallo,3,MID,16,Southampton,4.5,2.08
+350,Djenepo,3,MID,16,Southampton,5.5,2.54
+337,Ings,4,FWD,16,Southampton,8.0,4.97
+344,Nlundulu,4,FWD,16,Southampton,4.5,2.0
+345,Adams,4,FWD,16,Southampton,7.0,4.22
+348,Obafemi,4,FWD,16,Southampton,4.5,2.0
+338,Stephens,2,DEF,16,Southampton,4.5,2.34
+340,Vestergaard,2,DEF,16,Southampton,5.0,2.94
+342,Walker-Peters,2,DEF,16,Southampton,5.0,3.13
+343,Bednarek,2,DEF,16,Southampton,4.5,2.67
+351,Salisu,2,DEF,16,Southampton,4.5,1.34
+352,Hart,1,GKP,17,Spurs,4.5,2.0
+353,Lloris,1,GKP,17,Spurs,5.5,3.92
+354,Sissoko,3,MID,17,Spurs,4.5,2.13
+356,Lamela,3,MID,17,Spurs,6.0,2.41
+359,Son,3,MID,17,Spurs,10.0,6.37
+362,Lucas Moura,3,MID,17,Spurs,6.5,3.91
+363,Dele,3,MID,17,Spurs,6.5,3.2
+365,Højbjerg,3,MID,17,Spurs,5.0,2.82
+366,Winks,3,MID,17,Spurs,4.5,1.64
+369,Bergwijn,3,MID,17,Spurs,6.0,3.37
+372,Lo Celso,3,MID,17,Spurs,6.0,2.64
+373,Skipp,3,MID,17,Spurs,4.5,2.0
+375,Ndombele,3,MID,17,Spurs,6.0,3.64
+357,Kane,4,FWD,17,Spurs,12.5,6.98
+355,Alderweireld,2,DEF,17,Spurs,5.0,3.53
+358,Aurier,2,DEF,17,Spurs,5.0,4.35
+360,Doherty,2,DEF,17,Spurs,5.0,3.09
+361,Dier,2,DEF,17,Spurs,4.5,2.75
+364,Davies,2,DEF,17,Spurs,4.5,3.04
+367,Sánchez,2,DEF,17,Spurs,4.5,2.5
+368,Sessegnon,2,DEF,17,Spurs,4.5,2.0
+370,Reguilón,2,DEF,17,Spurs,5.0,3.43
+371,Tanganga,2,DEF,17,Spurs,4.5,2.46
+374,Rodon,2,DEF,17,Spurs,4.5,2.78
+376,Foster,1,GKP,18,Watford,4.0,2.0
+389,Bachmann,1,GKP,18,Watford,4.5,2.0
+378,Gosling,3,MID,18,Watford,5.0,2.0
+381,Cleverley,3,MID,18,Watford,5.0,2.0
+385,Chalobah,3,MID,18,Watford,5.0,2.0
+386,Hughes,3,MID,18,Watford,5.0,2.0
+391,Sema,3,MID,18,Watford,5.5,2.0
+392,Zinckernagel,3,MID,18,Watford,5.5,2.0
+394,Dele-Bashiru,3,MID,18,Watford,4.5,2.0
+397,Quina,3,MID,18,Watford,4.5,2.0
+399,Sarr,3,MID,18,Watford,6.0,2.0
+402,Hungbo,3,MID,18,Watford,4.5,2.0
+403,Louza,3,MID,18,Watford,5.5,2.0
+405,Baah,3,MID,18,Watford,4.5,2.0
+380,Deeney,4,FWD,18,Watford,5.5,2.0
+383,Gray,4,FWD,18,Watford,5.5,2.0
+388,Perica,4,FWD,18,Watford,4.5,2.0
+393,Success,4,FWD,18,Watford,5.0,2.0
+395,Fletcher,4,FWD,18,Watford,5.0,2.0
+404,João Pedro,4,FWD,18,Watford,5.5,2.0
+377,Rose,2,DEF,18,Watford,4.5,2.0
+379,Cathcart,2,DEF,18,Watford,4.5,2.0
+382,Femenía,2,DEF,18,Watford,4.5,2.0
+384,Kabasele,2,DEF,18,Watford,4.5,2.0
+387,Troost-Ekong,2,DEF,18,Watford,4.5,2.0
+390,Masina,2,DEF,18,Watford,4.5,2.0
+396,Sierralta,2,DEF,18,Watford,4.5,2.0
+398,Navarro,2,DEF,18,Watford,4.0,2.0
+400,Ngakia,2,DEF,18,Watford,4.5,2.0
+401,Wilmot,2,DEF,18,Watford,4.5,2.0
+407,Randolph,1,GKP,19,West Ham,4.5,2.0
+408,Fabianski,1,GKP,19,West Ham,5.0,3.8
+406,Noble,3,MID,19,West Ham,4.5,2.38
+412,Yarmolenko,3,MID,19,West Ham,5.5,2.0
+416,Lanzini,3,MID,19,West Ham,6.0,3.09
+419,Benrahma,3,MID,19,West Ham,6.0,3.6
+420,Bowen,3,MID,19,West Ham,6.5,4.34
+421,Rice,3,MID,19,West Ham,5.0,2.69
+422,Soucek,3,MID,19,West Ham,6.0,3.87
+423,Fornals,3,MID,19,West Ham,6.0,4.08
+413,Antonio,4,FWD,19,West Ham,7.5,4.96
+409,Ogbonna,2,DEF,19,West Ham,5.0,3.59
+410,Reid,2,DEF,19,West Ham,4.0,2.0
+411,Cresswell,2,DEF,19,West Ham,5.5,4.3
+414,Dawson,2,DEF,19,West Ham,5.0,3.46
+415,Fredericks,2,DEF,19,West Ham,4.5,3.24
+417,Masuaku,2,DEF,19,West Ham,4.5,3.63
+418,Coufal,2,DEF,19,West Ham,5.0,3.76
+424,Diop,2,DEF,19,West Ham,4.5,2.54
+425,Johnson,2,DEF,19,West Ham,4.0,3.08
+427,Patrício,1,GKP,20,Wolves,5.0,3.57
+444,Söndergaard,1,GKP,20,Wolves,4.0,2.0
+426,Moutinho,3,MID,20,Wolves,5.0,2.41
+434,Dendoncker,3,MID,20,Wolves,5.0,2.55
+435,Traoré,3,MID,20,Wolves,6.0,2.87
+436,Neves,3,MID,20,Wolves,5.5,3.2
+438,Podence,3,MID,20,Wolves,5.5,3.59
+440,Gibbs-White,3,MID,20,Wolves,4.5,2.0
+441,Neto,3,MID,20,Wolves,6.5,4.19
+442,Otasowie,3,MID,20,Wolves,4.5,2.0
+430,Jiménez,4,FWD,20,Wolves,7.5,4.5
+445,Fabio Silva,4,FWD,20,Wolves,6.0,3.52
+428,Boly,2,DEF,20,Wolves,5.0,3.25
+429,Coady,2,DEF,20,Wolves,4.5,2.88
+431,Saïss,2,DEF,20,Wolves,5.0,3.68
+432,Marçal,2,DEF,20,Wolves,4.5,2.12
+433,Jonny,2,DEF,20,Wolves,4.5,2.6
+437,Semedo,2,DEF,20,Wolves,5.0,3.25
+439,Kilman,2,DEF,20,Wolves,4.5,3.61
+443,Hoever,2,DEF,20,Wolves,4.0,1.56
+446,Mosquera,2,DEF,20,Wolves,4.5,2.0
