@@ -223,22 +223,22 @@ class SelectionModel:
         buy_price = self.forecasts['bv'].to_dict()
         # total bank earned from selling players across gameweeks
         sold_amount = {w: so.expr_sum(sell_price[p] * transfer_out[p,w]
-                                    for p in players)
-                    for w in gameweeks}
+                                      for p in players)
+                       for w in gameweeks}
         # total bank spent on buying players across gameweeks
         bought_amount = {w: so.expr_sum(buy_price[p] * transfer_in[p,w]
                                         for p in players)
-                        for w in gameweeks}
+                         for w in gameweeks}
         # player weekly forecast points
         points_player_week = {(p,w): self.forecasts.loc[p, f'{w}_pts']
-                            for p in players for w in gameweeks}
+                              for p in players for w in gameweeks}
         # number of transfers made each week
         number_of_transfers = {w: so.expr_sum(transfer_out[p,w] for p in players)
-                            for w in gameweeks}
+                               for w in gameweeks}
         # assume one transfer was made last week ?? why ??
         number_of_transfers[self.gw-1] = 1
         transfer_diff = {w: number_of_transfers[w] - free_transfers[w]
-                        for w in gameweeks}
+                         for w in gameweeks}
 
         # Initial conditions
         # set squad = 1 for all players currently in squad at previous GW deadline
